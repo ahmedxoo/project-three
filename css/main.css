@@ -1526,4 +1526,12 @@ footer .container .box img{
     width: 80px;
     background-color: white;
     padding: 3px;
+} 
+@media (max-width: 768px) {
+    footer .container .box ul{
+        padding: 32px;
+    }
+    footer .container .box-p{
+        padding-left: 40px;
+    }
 }
