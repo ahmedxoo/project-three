@@ -1040,7 +1040,7 @@ font-weight: bold;
         flex-wrap: wrap;
         width: 210%;
     border-radius: 20px;
-    margin-left: -38px;
+    margin-left: -55px;
     }
     .section-nine .container .box {
         flex: 0;
@@ -1528,7 +1528,7 @@ footer .container .box img{
     padding: 3px;
 } 
 @media (max-width: 768px) {
-    footer .container ul{
+    footer .container ul {
         padding: 32px;
     }
     footer .container .box-p{
