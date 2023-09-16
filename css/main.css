@@ -1528,7 +1528,7 @@ footer .container .box img{
     padding: 3px;
 } 
 @media (max-width: 768px) {
-    footer .container .box ul{
+    footer .container ul{
         padding: 32px;
     }
     footer .container .box-p{
